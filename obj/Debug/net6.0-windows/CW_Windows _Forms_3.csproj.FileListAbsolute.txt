@@ -1,0 +1,19 @@
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\bin\Debug\net6.0-windows\CW_Windows _Forms_3.exe
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\bin\Debug\net6.0-windows\CW_Windows _Forms_3.deps.json
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\bin\Debug\net6.0-windows\CW_Windows _Forms_3.runtimeconfig.json
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\bin\Debug\net6.0-windows\CW_Windows _Forms_3.dll
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\bin\Debug\net6.0-windows\CW_Windows _Forms_3.pdb
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows__Forms_3.Form1.resources
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.dll
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\refint\CW_Windows _Forms_3.dll
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.pdb
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows _Forms_3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\ref\CW_Windows _Forms_3.dll
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows__Forms_3.Form2.resources
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows__Forms_3.Form3.resources
+C:\Users\Admin\source\repos\CW_Windows _Forms_3\obj\Debug\net6.0-windows\CW_Windows__Forms_3.Form4.resources
